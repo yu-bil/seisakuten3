@@ -23,7 +23,7 @@
     background-size: cover;
     position:relative;
     top: 0pt;
-    right: -50pt;
+    right: -1*50pt;
 }
 
 /* 時計の共通スタイル */
