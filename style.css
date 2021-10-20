@@ -28,11 +28,11 @@
 
 /* 時間のスタイル */
 .clock-time {
-  font-size: 30px;
+  font-size: 100px;
 }
 
 /* 文字サイズ調整 */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 100px) {
   .clock-date {
     font-size: 5vw;
   }
