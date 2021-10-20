@@ -3,7 +3,7 @@
 
 /* 全体を囲うコンテナー */
 .container {
-  width: 100%;
+  width: 100vw;/*100%*/
   height: 100vh;
   background-color: #15151e;
   display: flex;
@@ -41,6 +41,6 @@
     font-size: 10vw;/*20vw*/
 	position:relative;
 	  top: 100px;
-	  left:0px;
+	  left:(100vw-30)px;
   }
 }
