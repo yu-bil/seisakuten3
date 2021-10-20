@@ -3,7 +3,7 @@
 
 /* 全体を囲うコンテナー */
 .container {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
 /*   background-color: #15151e; */
   display: flex;
@@ -23,7 +23,7 @@
     background-size: cover;
     position:relative;
     top: 0pt;
-    right: 10pt;
+    right: 20pt;
 }
 
 /* 時計の共通スタイル */
