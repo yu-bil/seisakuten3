@@ -39,9 +39,9 @@
   }
   .clock-time {
     font-size: 10vw;/*20vw*/
-	text-align: left;
+/* 	text-align: left; */
 	position:relative;
 	  top: 50px;
-/* 	  left:100%-30px; */
+	  left: 100%;
   }
 }
