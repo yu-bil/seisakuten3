@@ -22,7 +22,7 @@
     height:150px;                                 /* 縦幅のサイズを指定    */
     background-size: cover;
     top: 0;
-    right: -10;
+    right: -50;
 }
 
 /* 時計の共通スタイル */
