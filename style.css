@@ -9,7 +9,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center; /*  right  */
+  text-align: right; /*  right  */
 }
 
 /* 時計の共通スタイル */
