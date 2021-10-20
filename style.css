@@ -10,9 +10,7 @@
   align-items: right;
   justify-content: right;
   text-align: right; /*  right  */
-  position:relative;
-	top: 50px;
-	left:50px;
+  
 }
 
 /* 時計の共通スタイル */
@@ -41,5 +39,8 @@
   }
   .clock-time {
     font-size: 10vw;/*20vw*/
+	position:relative;
+	top: 50px;
+	left:50px;
   }
 }
