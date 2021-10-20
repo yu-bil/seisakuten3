@@ -37,7 +37,7 @@
   line-height: 1.2;
   text-align: left;/*center*/
   position:relative;
-  top: -70px;/*25*/
+  top: -35px;/*25*/
   right: 0px;
 }
 
@@ -60,7 +60,7 @@
     font-size: 10vw;/*20vw*/
 /* 	text-align: left; */
     position:relative;
-    top: 0px;/*25*/
-    left: 100%;
+/*     top: 0px;25 */
+/*     left: 100%; */
   }
 }
