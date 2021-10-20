@@ -18,7 +18,7 @@
     background-image:url(./1_human.png);             /* 画像のURLを指定       */
     background-image:url(./1_human.png);             /* 画像のURLを指定       */
 /*     background-size:contain;               /* 画像の繰り返しを指定  */               */
-    width: 350px;                                   /* 横幅のサイズを指定    */
+    width: 400px;                                   /* 横幅のサイズを指定    */
     height:150px;                                 /* 縦幅のサイズを指定    */
     background-size: cover;
     position:relative;
@@ -53,8 +53,8 @@
   .clock-time {
     font-size: 10vw;/*20vw*/
 /* 	text-align: left; */
-	position:relative;
-	top: 25px;
-	left: 100%;
+    position:relative;
+    top: 25px;
+    left: 100%;
   }
 }
