@@ -41,6 +41,6 @@
     font-size: 10vw;/*20vw*/
 	position:relative;
 	  top: 100px;
-	  left:(100vw-30)px;
+	  left:100vw-30px;
   }
 }
