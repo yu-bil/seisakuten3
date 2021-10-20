@@ -21,6 +21,7 @@
     width: 300pt;                                   /* 横幅のサイズを指定    */
     height:150px;                                 /* 縦幅のサイズを指定    */
     background-size: cover;
+    position:relative;
     top: 0pt;
     right: -50pt;
 }
