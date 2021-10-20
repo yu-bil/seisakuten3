@@ -13,6 +13,14 @@
   
 }
 
+/* 背景画像の追加 */
+.disp-img{
+    background-image:url(../1_human.png);             /* 画像のURLを指定       */
+    background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */              
+    width:auto;                                   /* 横幅のサイズを指定    */
+    height:400pX;                                 /* 縦幅のサイズを指定    */
+}
+
 /* 時計の共通スタイル */
 .clock {
   font-family: 'Share Tech Mono', monospace;
