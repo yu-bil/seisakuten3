@@ -10,6 +10,9 @@
   align-items: right;
   justify-content: right;
   text-align: right; /*  right  */
+  position:relative;
+	top: 50px;
+	left:50px;
 }
 
 /* 時計の共通スタイル */
