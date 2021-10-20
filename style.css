@@ -40,7 +40,7 @@
   .clock-time {
     font-size: 10vw;/*20vw*/
 	position:relative;
-	  top: 100px;
-	  left:100vw-30px;
+	  top: 50px;
+	  left:100%-30px;
   }
 }
