@@ -17,7 +17,7 @@
 .disp-img{
     background-image:url(./1_human.png);             /* 画像のURLを指定       */
     margin:0;
-　  padding:0;
+    padding:0;
 
 /*     background-size:contain;               /* 画像の繰り返しを指定  */               */
     width: 400px;                                   /* 横幅のサイズを指定    */
