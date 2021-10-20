@@ -9,7 +9,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: right; /*  right  */
+  text-align: center; /*  right  */
 }
 
 /* 時計の共通スタイル */
@@ -18,7 +18,7 @@
   color: #daf6ff;
   text-shadow: 0 0 20px #0aafe6;
   line-height: 1.2;
-  text-align: center;
+  text-align: right;/*center*/
 }
 
 /* 日付のスタイル */
