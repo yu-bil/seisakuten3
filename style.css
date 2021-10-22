@@ -54,7 +54,7 @@
 /* 文字サイズ調整 500pt*/
 @media screen and (max-width: 1000px) {
   .clock-date {
-    font-size: 5vw;/*5vw*/
+    font-size: 0vw;/*5vw*/
   }
   .clock-time {
     font-size: 10vw;/*20vw*/
