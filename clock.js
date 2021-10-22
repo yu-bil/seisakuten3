@@ -33,7 +33,7 @@ const clock = () => {
   // 文字列を出力
   document.querySelector(".clock-date").innerText = today;
   document.querySelector(".clock-time").innerText = time;
-  document.querySelector(".clock-time").innerText = time;
+  document.querySelector(".clock-time2").innerText = time;
 };
 
 // 1秒ごとにclock関数を呼び出す
