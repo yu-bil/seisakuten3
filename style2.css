@@ -24,7 +24,7 @@
     height:150px;                                 /* 縦幅のサイズを指定    */
     background-size: cover;
     position:relative;
-    top: 0px;
+    top: 150px;
     right: 20px;
   
 }
@@ -37,7 +37,7 @@
   line-height: 1.2;
   text-align: left;/*center*/
   position:relative;
-  top: 35px;/*25 -35*/
+  top: 105px;/*25 -35*/
   left: 200px;
 }
 
